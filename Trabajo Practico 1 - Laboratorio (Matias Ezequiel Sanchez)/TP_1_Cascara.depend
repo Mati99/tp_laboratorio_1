@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1504756516 source:c:\users\maty\desktop\trabajo practico posta\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504755685 c:\users\maty\desktop\trabajo practico posta\tp_1_cascara\funciones.h
+
+1504756531 source:c:\users\maty\desktop\trabajo practico posta\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504751478 c:\users\maty\desktop\trabajo practico posta\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<conio.h>
+
+1504793532 source:c:\users\alumno\desktop\calculadora actualizada 7-9\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504793617 c:\users\alumno\desktop\calculadora actualizada 7-9\tp_1_cascara\funciones.h
+
+1504793598 source:c:\users\alumno\desktop\calculadora actualizada 7-9\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504825249 source:c:\users\maty\desktop\calculadora actualizada en facu\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504825249 c:\users\maty\desktop\calculadora actualizada en facu\tp_1_cascara\funciones.h
+
+1504825249 source:c:\users\maty\desktop\calculadora actualizada en facu\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504837578 source:c:\users\maty\desktop\calculadora actualizada\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504839556 c:\users\maty\desktop\calculadora actualizada\tp_1_cascara\funciones.h
+
+1504838014 source:c:\users\maty\desktop\calculadora actualizada\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504837580 source:c:\users\alumno\desktop\trabajo practico 1 - laboratorio\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504839558 c:\users\alumno\desktop\trabajo practico 1 - laboratorio\tp_1_cascara\funciones.h
+
+1504878532 source:c:\users\alumno\desktop\trabajo practico 1 - laboratorio\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504837580 source:c:\users\maty\desktop\trabajo practico 1 - laboratorio\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504839558 c:\users\maty\desktop\trabajo practico 1 - laboratorio\tp_1_cascara\funciones.h
+
+1504878534 source:c:\users\maty\desktop\trabajo practico 1 - laboratorio\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504917709 source:c:\users\maty\desktop\trabajo practico 1 - laboratorio (matias ezequiel sanchez)\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504839558 c:\users\maty\desktop\trabajo practico 1 - laboratorio (matias ezequiel sanchez)\tp_1_cascara\funciones.h
+
+1504918099 source:c:\users\maty\desktop\trabajo practico 1 - laboratorio (matias ezequiel sanchez)\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
